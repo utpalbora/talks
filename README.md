@@ -1,5 +1,9 @@
 # talks
 Slides from my presentations
+
+## 2022
+[Open Colloquium](2022/OC/Utpal_Bora_OC_slides.pdf)  
+
 ## 2021
 [LLVM Social Bangalore, 2021](2021/LLVM-Social-Bangalore/LLVM_Social_Bangalore_April_2021.pdf)  
 [ARCS, 2021](2021/ARCS/LLOV_Poster_ARCS_2021.pdf)  
